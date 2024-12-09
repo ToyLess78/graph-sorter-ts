@@ -1,0 +1,16 @@
+{
+  "name": "graph-sorter-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "graphSorter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["graph", "sorter", "ts"],
+  "author": "Bilenko Tetiana",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "typescript": "^5.7.2"
+  }
+}
